@@ -1,0 +1,8 @@
+[
+    {
+        "id_usuario": "admin",
+        "nombre": "Administrador",
+        "rol": "Administrador",
+        "clave": "1234"
+    }
+]
